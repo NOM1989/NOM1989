@@ -1,5 +1,5 @@
 ### Creating the Wisp discord bot
-#### All work closed source 😩
+#### Most work closed source
 
 <!--
 **NOM1989/NOM1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
