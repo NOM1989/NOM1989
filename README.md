@@ -1,4 +1,3 @@
-### Creating the Wisp discord bot
 #### Most work closed source
 
 <!--
